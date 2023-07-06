@@ -1,0 +1,221 @@
+body{
+	padding-top: 35px;
+}
+
+.bg-01{
+	background-image: url(img/bg-01.jpg);
+
+	background-position:center;
+	min-height: 100%;
+            width: 100%;
+}
+
+.bg-02{
+	background-image: url(img/bg-02.jpg);
+	background-position:center;
+	min-height: 130vh;
+/*            background-repeat: no-repeat;
+            background-attachment: fixed;*/
+            background-position: center;
+            background-size: cover;
+}
+
+.bg-03{
+	background-image: url(img/bg-03.jpg);
+	min-height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-04{
+	background-color:  #f4f3ed;
+}
+
+.bg-05{
+	background-color:  #fff33f;
+}
+
+.bg-06{
+	background-image: url(img/bg-06.jpg);
+	min-height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-07{
+	background-image: url(img/bg-07.jpg);
+	min-height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-10{
+	background-image: url(img/img-10.jpg);
+	min-height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-11{
+	background-color:  #fcf7c3;
+}
+
+.bg-12{
+	background-color:  #666666;
+}
+
+
+.img-01{
+	background-image: url(img/img-01.jpg);
+	width: 303px;
+	height: 576px;
+
+}
+
+.img-02{
+	background-image: url(img/img-02.jpg);
+	height: 202px;
+	width: 305px;
+}
+
+.img-03{
+	background-image: url(img/img-03.jpg);
+	height: 474px;
+	width: 608px;
+}
+
+.img-05{
+	background-image: url(img/img-05.jpg);
+	height: 474px;
+	width: 608px;
+}
+
+
+.rl-0{
+	padding-right: 0px;
+	padding-left : 0px;
+	margin-right: 0px;
+    margin-left: 0px;
+}
+
+li{
+	list-style:none;
+}
+
+.nav-item{
+	background-color: #b07ed1;
+	padding-right: 0px;
+    padding-left: 0px;
+    font-size: 11pt;
+
+}
+
+.nav-item a{
+	color: #fff;
+}
+
+
+.header{
+		box-shadow:3px 3px 20px  #fff;
+		
+}
+
+
+@media (max-width: 1199.98px) { 
+	.header{
+		display: none;
+
+		
+	}
+	body{
+	padding-top: 0px;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 576px) { 
+
+.bg-02{
+	display: none;
+}
+
+
+}
+
+
+
+
+/*text*/
+
+h2{
+	letter-spacing: 3px;
+}
+
+.puper{
+	color: #b07ed1;
+}
+
+.pink{
+	color: #ed8987;
+}
+
+.orange{
+	color:#ff6600;
+}
+
+.green{
+	color: #036703;
+}
+
+.yellow{
+	color: #f7cf00;
+}
+
+
+
+p{
+	font-size: 11pt;
+	line-height: 18pt;
+	letter-spacing: 1.5px;
+	font-weight: 350;
+	color: #4f4f4f;
+}
+
+
+p small{
+	font-weight: 300;
+}
+
+.lh-40{
+	line-height: 40px;
+}
+
+.lh-30{
+	line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
